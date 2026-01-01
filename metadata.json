@@ -1,0 +1,8 @@
+
+{
+  "name": "Krishna Hotel & Cafe",
+  "description": "The official website for Krishna Hotel, Restaurant & Cafe. Experience authentic taste and warm Indian hospitality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
